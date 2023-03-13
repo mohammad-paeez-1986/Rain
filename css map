@@ -1,0 +1,19 @@
+
+.leaflet-container {
+    border: 1px solid #fff;
+    height: 700px;
+}
+
+.leaflet-touch .leaflet-geosearch-bar form input {
+    height: 40px !important;
+    color: #000;
+    font-size: 14px;
+}
+
+.leaflet-touch .leaflet-geosearch-bar form input:focus {
+    box-shadow: none;
+}
+
+.leaflet-geosearch-bar{
+    color: #444;
+}
